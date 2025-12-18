@@ -8,7 +8,7 @@ Built with a focus on premium aesthetics, smooth interactions, and responsive de
 
 ## 🚀 Visit the Site
 
-[Link to live site if applicable, or remove]
+- **Visit site here**: [Click](https://portfolio-nitiwat.vercel.app/)
 
 ## 🛠️ Tech Stack
 
