@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nitiwat.CH - Solution Consultant Portfolio
 
-## Getting Started
+![Nitiwat.CH Homepage Preview](assets/homepage-preview.png)
 
-First, run the development server:
+A modern, high-performance portfolio website for **Nitiwat Chunprapanusorn**, a Solution Consultant specializing in RPA, Process Improvement, and Web Development.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Built with a focus on premium aesthetics, smooth interactions, and responsive design to showcase professional achievements and skills.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Visit the Site
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[Link to live site if applicable, or remove]
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+This project leverages the latest web technologies for optimal performance and developer experience:
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Font**: [Geist Sans](https://vercel.com/font)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Premium Dark Theme**: "Space/Dark" aesthetic with neon violet/cyan accents.
+- **Smooth Navigation**: Sticky glassmorphism header and smooth scrolling sections.
+- **Interactive UI**: Engaging micro-interaction and scroll animations.
+- **Responsive Design**: Fully optimized for Desktop, Tablet, and Mobile devices.
+- **Sections**:
+  - **About**: Professional introduction with profile photo.
+  - **Work History**: Vertical timeline of experience in RPA and Logistics.
+  - **Education**: Academic background.
+  - **Skills**: Categorized technical proficiencies (Automation, Programming, Web).
+  - **Certificates**: Grid view of certifications with external links.
+  - **Hobbies**: Personal interests.
+  - **Contact**: Clean contact section with social links and location.
 
-## Deploy on Vercel
+## 🏁 Getting Started
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To run this project locally:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/portfolio.git
+    cd portfolio
+    ```
+
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3.  **Run the development server**:
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open your browser**:
+    Navigate to [http://localhost:3000](http://localhost:3000)
+
+## 📬 Contact
+
+- **Email**: [ch.nitiwat@gmail.com](mailto:ch.nitiwat@gmail.com)
+- **LinkedIn**: [Nitiwat Chunprapanusorn](https://www.linkedin.com/in/nitiwat-chunprapanusorn-688045195/)
+- **Location**: Bangkok, Thailand
+
+---
+
+© 2025 Nitiwat Chunprapanusorn. All rights reserved.
